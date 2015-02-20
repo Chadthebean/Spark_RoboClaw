@@ -1,0 +1,7 @@
+{
+  "name": "Spark_RoboClaw",
+  "author": "Chad Bean <chadthebean@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A simple library to get started while using the Orion Robotics Roboclaw motor driver"
+}
